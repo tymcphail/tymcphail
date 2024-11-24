@@ -9,7 +9,7 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
   <a href="[https://www.linkedin.com/in/emmanuel-haynes-953482215?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bkuc8APqgQhmSytvfqYt59w%3D%3D](https://www.linkedin.com/feed/)">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 
-### Languages and Tools 💻 
+### Languages and Tools 
   
  
 
@@ -36,7 +36,7 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 
 
   
-  <h2>Programming:</h2>
+  <h2>Database Design and Management:</h2>
   - <b>Property Database (SQL) </b>
   - [(https://github.com/tymcphail/Assignment9)]
   <br/>
@@ -52,6 +52,27 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 - <b>Join Exercise (SQL)</b>
   - [(https://github.com/tymcphail/ex8/tree/main)]
   <br/>
+
+   <h2>Programming:</h2>
+  - <b>Computer Hardware Console Application (C#) </b>
+  - [(https://github.com/tymcphail/Console5))]
+  <br/>
+- <b>Nested Loop Example (C#)</b>
+  - [(https://github.com/tymcphail/lab7)]
+  <br/>
+- <b>LINQ Example (C#)</b>
+  -[(https://github.com/tymcphail/linqex/tree/main)]
+  <br/>
+- <b>Furniture Management System Framework (C#) </b>
+  - [(https://github.com/tymcphail/prog2/tree/main)]
+  <br/>
+- <b>Boat Rental Form (C#)</b>
+  - [((https://github.com/tymcphail/prog1)]
+  <br/>
+- <b>Pet Adoption Console Application (C#)</b>
+  - [(https://github.com/tymcphail/prog4)]
+  <br/>
+
 
 
 <h2> Technical Skills </h2>
