@@ -32,6 +32,10 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 - <b>Local Business Assesment</b>
   - [(https://github.com/tymcphail/StrategicAssess/tree/main)]
 <br/>
+- <b>Presentation Example </b>
+  - [(https://github.com/tymcphail/pres/tree/main)]
+<br/>
+
 
 
 
