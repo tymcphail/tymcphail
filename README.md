@@ -30,7 +30,7 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
   - [(https://github.com/tymcphail/IterationOne/tree/main)]
   <br/>
 - <b>Local Business Assesment</b>
-  - [(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform](https://github.com/tymcphail/StrategicAssess/tree/main)]
+  - [(https://github.com/tymcphail/StrategicAssess/tree/main)]
 <br/>
 
 
