@@ -24,13 +24,13 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
   - [(https://github.com/tymcphail/CareGroup-Case-Study)]
   <br/>
 - <b>Security Case Study</b>
-  - [()]</b></i>
+  - [(https://github.com/tymcphail/TargetCase)]</b></i>
     <br/>
 - <b>Project Life Cycle  </b>
   - [(https://github.com/tymcphail/IterationOne/tree/main)]
   <br/>
 - <b>Local Business Assesment</b>
-  - [(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
+  - [(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform](https://github.com/tymcphail/StrategicAssess/tree/main)]
 <br/>
 
 
