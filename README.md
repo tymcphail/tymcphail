@@ -76,13 +76,8 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 
 
 <h2> Technical Skills </h2>
-- Python, Excel, Linux, HTML Programming, SQL Programming, C# Programming, Microsoft Office certified, Network Management, Network Protocols, Putty
+ Python, Excel, Linux, HTML Programming, SQL Programming, C# Programming, Microsoft Office certified, Network Management, Network Protocols, Putty
 
 <h2>Soft Skills</h2>
-- Networking  
-- Problem Solving
-- Critical Thinking
-- Teamwork
-- Time Management
-- Creativity
+Networking, Problem Solving, Critical Thinking, Teamwork, Time Management, Creativity
 
