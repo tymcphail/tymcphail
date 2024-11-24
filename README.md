@@ -20,24 +20,19 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 <br/>
   
   <h2>Business and Systems Analysis </h2>
-- <b>C# Insurance Calculator (.NET GUI) </b>
-  - [Insurance Calculator][(https://github.com/Ejhayn04/C-InsuranceCalculator/blob/main/README.md)]
+- <b>Healthcare Case study </b>
+  - [(https://github.com/tymcphail/CareGroup-Case-Study)]
   <br/>
-- <b>C# Product Locator / Stock Status Console Application (.NET Framework)</b>
-  - [C# Product Locator / Stock Status Console Application][(https://github.com/Ejhayn04/Product-In-Stock-Status-Application)]</b></i>
+- <b>Security Case Study</b>
+  - [()]</b></i>
     <br/>
-- <b>HTML ShakeSpeare Page Creation  </b>
-  - [HTML ShakeSpeare Page Creation][(https://github.com/Ejhayn04/ShakeSpeare-Page-Creation-HTML-)]
+- <b>Project Life Cycle  </b>
+  - [(https://github.com/tymcphail/IterationOne/tree/main)]
   <br/>
-- <b>HTML Credit Card Info Webform</b>
-  - [Credit Card Info Webform]([(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
+- <b>Local Business Assesment</b>
+  - [(https://github.com/Ejhayn04/HTML-Credit-Card-Info-Webform)]
 <br/>
-- <b>C# Digital CLock (.NET GUI) </b>
-  - [Digital Clock][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
-  <br/>
-<b> Creation of UoFL Basketball Team Website (WIX)</b>
-  - [Website] [(https://youngflymetro.wixsite.com/uofl-mens--basketbal)]
-  <br/>
+
 
 
   
