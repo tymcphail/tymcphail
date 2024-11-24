@@ -37,29 +37,25 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
 
   
   <h2>Programming:</h2>
-  - <b>SQL Injection with Burp Suite (SQL) </b>
-  - [SQL Injection][https://github.com/Ejhayn04/SQL-Injection-With-Burp-Suit/tree/main]
+  - <b>Property Database (SQL) </b>
+  - [(https://github.com/tymcphail/Assignment9)]
   <br/>
-- <b> Snort (Linux) </b>
-  - [Linux][(https://github.com/Ejhayn04/Digital-Clock-Project-C-)]
+- <b>Entity Relationship Diagram (Visio)</b>
+  - [(https://github.com/tymcphail/ex4)]
   <br/>
-- <b> Wireless Security (Linux) </b>
-  - [Kali Linux][(https://github.com/Ejhayn04/Wireless-Security/tree/main)]
+- <b>Database Normalization</b>
+  -[(https://github.com/tymcphail/EX6)]
   <br/>
-- <b> Creating Firewall in Linux (Linux) </b>
-  - [Linux][(https://github.com/Ejhayn04/Linux-Firewall/tree/main)]
+- <b>Filtering Exercise (SQL) </b>
+  - [(https://github.com/tymcphail/ex7)]
   <br/>
-- <b> AD and GPOS (SQL) </b>
-  - [SQL][(https://github.com/Ejhayn04/AD-and-GPOS/tree/main)]
+- <b>Join Exercise (SQL)</b>
+  - [(https://github.com/tymcphail/ex8/tree/main)]
   <br/>
 
 
-<h2> Certifications </h2>
-- <b>[Python Certified](https://www.linkedin.com/posts/emmanuel-haynes-953482215_blessed-to-say-i-passed-my-intro-to-python-activity-6946943365745692673-lswD?utm_source=share&utm_medium=member_desktop)</b>
-<br/>
--<b>[HacktheBox PenTester Academy]</b>
 <h2> Technical Skills </h2>
-- Python, Excel certified, Linux, HTML Programming, SQL Programming, C# Programming, Microsoft Office certified, Network Management, Network Protocols
+- Python, Excel, Linux, HTML Programming, SQL Programming, C# Programming, Microsoft Office certified, Network Management, Network Protocols, Putty
 
 <h2>Soft Skills</h2>
 - Networking  
