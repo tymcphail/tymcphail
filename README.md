@@ -77,6 +77,16 @@ I am a dedicated student-athlete majoring in Computer Information Systems with a
   - [(https://github.com/tymcphail/prog4)]
   <br/>
 
+   <h2>Infrastructure:</h2>
+  - <b>Binary Conversions and Comprehension</b>
+  - [(https://github.com/tymcphail/gr3/tree/main)]
+  <br/>
+ - <b>Machine Cycle and Memory Comprehension</b>
+  - [((https://github.com/tymcphail/hw5/tree/main))]
+  <br/>
+  - <b>Capacity and Bus Comprehension</b>
+  - [(https://github.com/tymcphail/hw6/tree/main)]
+  <br/>
 
 
 <h2> Technical Skills </h2>
