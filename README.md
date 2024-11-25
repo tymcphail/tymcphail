@@ -6,7 +6,7 @@
 I am a dedicated student-athlete majoring in Computer Information Systems with a focus on Web Development. Balancing athletics and academics has taught me discipline, time management, and the value of perseverance. My passion lies in creating innovative and user-friendly web solutions, combining my technical knowledge with creative problem-solving skills. Whether it’s on the field or in the classroom, I am committed to continuous improvement and achieving excellence in all that I do.
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/ty-mcphail-ab2595250/](https://www.linkedin.com/feed/)">
+  <a href="https://www.linkedin.com/in/ty-mcphail-ab2595250/">
 <img alt="LinkedIn Profile" title= "LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIN-My%20Profile-blue"/<></a>
 
 ### Languages and Tools 
